@@ -2412,4 +2412,5 @@
     
 	if (!window.maxsmRatingsPlugin)
         startPlugin();
+
 })();
