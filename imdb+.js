@@ -457,6 +457,10 @@
     ".full-start-new__rate-line .full-start__rate:last-child {" +
     "    margin-right: 0 !important;" +
     "}" +
+    ".full-start-new__rate-line," +
+".full-start__rate-line{" +
+"    margin-bottom:0.3em;" +
+"}" +
 
     /* --- Приховування рядка під час завантаження --- */
     ".full-start-new__rate-line.lmp-is-loading-ratings > :not(#lmp-search-loader)," +
@@ -2770,3 +2774,4 @@
   }
   
 })();
+
