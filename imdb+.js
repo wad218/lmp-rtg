@@ -459,7 +459,8 @@
     "}" +
     ".full-start-new__rate-line," +
 ".full-start__rate-line{" +
-"    padding-bottom:30px !important;" +
+"    padding-top:20px !important;" +
+"    padding-bottom:20px !important;" +
 "}" +
 
     /* --- Приховування рядка під час завантаження --- */
@@ -2774,6 +2775,7 @@
   }
   
 })();
+
 
 
 
